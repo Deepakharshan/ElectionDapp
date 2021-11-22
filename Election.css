@@ -1,0 +1,148 @@
+.App{
+    position: relative;
+    width: 360px;
+    height: 640px;
+    background: #FFFFFF;
+}
+.Box{
+    position: absolute;
+    width: 360px;
+    height: 77px;
+    left: 0px;
+    top: 0px;
+    background: #C4C4C4;
+}
+.Heading{
+    position: absolute;
+    width: 129px;
+    height: 42px;
+    left: 115px;
+    top: 17px;
+    font-family:sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    color: #000000;
+    backdrop-filter: blur(4px);
+}
+.Candi{
+    position: absolute;
+width: 91px;
+height: 21px;
+left: 47px;
+top: 193px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+color: #000000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.Vote{
+    position: absolute;
+    width: 47px;
+    height: 21px;
+    left: 211px;
+    top: 193px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); 
+}
+.Ellipse{
+    position: absolute;
+    width: 35px;
+    height: 32px;
+    left: 71px;
+    top: 259px;
+    border-radius:20px;
+    background: #C4C4C4;
+}
+.One{
+    position: absolute;
+    width: 11px;
+    height: 21px;
+    left: 12px;
+    top: 6px;
+    
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+.VoteOne{
+    position: absolute;
+    width: 64px;
+    height: 28px;
+    left: 203px;
+    top: 259px;
+    border:none;
+    background: #C4C4C4;
+    border-radius: 10px;
+}
+
+.EllipseTwo{
+    position: absolute;
+    width: 35px;
+    height: 32px;
+    left: 71px;
+    top: 352px;
+    border-radius:20px;
+    background: #C4C4C4;
+}
+.Two{
+position: absolute;
+width: 11px;
+height: 21px;
+left: 12px;
+top: 6px;
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.VoteTwo{
+    position: absolute;
+    width: 64px;
+    height: 28px;
+    left: 203px;
+    top: 352px;
+    border:none;
+    background: #C4C4C4;
+    border-radius: 10px;
+}
+.CheckBox{
+    position: absolute;
+    width: 91px;
+    height: 27px;
+    left: 47px;
+    top: 500px;
+    border:none;
+    background: #C4C4C4;
+    border-radius: 10px;
+}
+
+.wallet{
+    position:absolute;
+    width:100px;
+    top:100px;
+    border-radius: 20px;
+    border:none;
+}
