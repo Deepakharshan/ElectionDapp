@@ -1,5 +1,5 @@
 # ElectionDapp
-In this project I wrote a simple Dapp (Decenteralised Application) and It is based on  Election concept.
+In this project I wrote a simple Dapp (Decentralized Application) and It is based on  Election concept.
 
 ELection Dapp is written in React.js in front-end and solidity in Back-end. And i use ethers.js in order to  interact with smart contract. You can also use web3.js instead of ethers.js 
 
