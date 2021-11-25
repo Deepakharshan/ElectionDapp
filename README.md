@@ -6,4 +6,6 @@
 
 3.Im used kovan testnet for contract deployement.
 
+4.Developers ideas are welcome.
+
 (If you findout any bug related to this project .I request you to kindle inform me).
